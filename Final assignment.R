@@ -1,5 +1,3 @@
-setwd("C:/Users/lenovo/Dropbox/R language/Final Assignment")
-
 taxi <- read.table("sample.csv", header =TRUE, sep=",")
 humid <- read.table("humidity.txt", header=FALSE, sep=",")
 prec <- read.table("precipitation.txt", header=FALSE, sep=",")
