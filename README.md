@@ -15,3 +15,7 @@ NYC Taxi Dataset between June 1st to June 30th, 2015
 
 ## Language 
 **R**
+
+## Examples of Visualization
+![](https://i.imgur.com/2T8R0TL.png)
+![](https://i.imgur.com/8zwaSd8.png)
